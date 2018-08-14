@@ -1,0 +1,25 @@
+.underLine {
+	padding-left: 14px;
+	font-size: 24px;
+}
+
+.garbageLetter {
+	padding-left: 10px;
+}
+
+.coolFont {
+	font-family: 'Tangerine', cursive;
+	text-align: center;
+}
+
+.center {
+	color: white;
+	text-align: center;
+	background-image: url("../images/lordOfTheRingsPic.jpg");
+	background-size: 100% 200%;
+}
+
+.gameOver {
+	padding-top: 200px;
+	font-size: 30px;
+}
